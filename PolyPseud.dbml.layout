@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="PolyPseud">
+  <DataContextMoniker Name="/PolyPseudDataContext" />
+  <nestedChildShapes>
+    <classShape Id="464ba115-95f9-4171-b79e-591ee2f8e96a" absoluteBounds="1.125, 1.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/PolyPseudDataContext/PolymorphicPseudonym" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0618f6ef-2b26-462e-b7eb-f0567d9c07aa" absoluteBounds="1.1400000000000001, 2.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c8495f43-2041-4ee3-92d2-3983bd331b22" absoluteBounds="3.5, 1.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/PolyPseudDataContext/EncryptedPseudonym" />
+      <nestedChildShapes>
+        <elementListCompartment Id="46b9360c-e911-4b47-ad02-5b391a204b38" absoluteBounds="3.5149999999999997, 2.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
